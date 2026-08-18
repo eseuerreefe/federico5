@@ -1,0 +1,10 @@
+numpy
+sounddevice
+pydub
+faster-whisper
+requests
+edge-tts
+pyttsx3
+simpleaudio
+PyQt5
+pyqtgraph
